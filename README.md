@@ -20,3 +20,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 
 
 
+[![Suica's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuicaLondon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuicaLondon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
