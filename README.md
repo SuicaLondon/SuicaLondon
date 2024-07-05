@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 ### 👨‍💻 What I'm doing
 - **SuicaUI** A UI library includes the UI design and components that can be used in other side project later.
 - **Blog** Continually writing new [blog](https://suica.dev/blogs) to share my point of views.
-
+- **Travel Neko** A travel planning App.
 ### 📫 Let's Connect
 
 - 🐦 Twitter https://twitter.com/SuicaLondon
