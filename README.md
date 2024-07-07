@@ -20,4 +20,11 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 
 
 [![Suica's GitHub stats](https://github-readme-stats-neon-three-53.vercel.app/api?username=SuicaLondon&show_icons=true&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Worked language for me
+
+- ✅ TypeScript / JavaScript
+- ✅ Dart / Swift / Java
+- ✅ Python / Go 
+
 [![Top Langs](https://github-readme-stats-neon-three-53.vercel.app/api/top-langs/?username=SuicaLondon&layout=compact&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
