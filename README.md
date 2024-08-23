@@ -28,3 +28,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 - ✅ Python / Go 
 
 [![Top Langs](https://github-readme-stats-neon-three-53.vercel.app/api/top-langs/?username=SuicaLondon&layout=compact&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Suica's github activity graph](https://github-readme-activity-graph-ochre-omega.vercel.app/graph?username=SuicaLondon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
