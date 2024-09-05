@@ -1,4 +1,4 @@
-## Hi there I am Suica 👋
+## Hi there I am Suica 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=SuicaLondon.SuicaLondon)
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer challenges and researching innovative solution for real life problem. You can find out more about me on my [Blog](https://suica.dev)
 
