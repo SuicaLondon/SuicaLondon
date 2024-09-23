@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer challenges and researching innovative solution for real life problem. You can find out more about me on my [Blog](https://suica.dev)
 
 ### 💼 What I have done 
-- **Delete unused Image** This is the [tool](https://pub.dev/packages/delete_unused_image) to delete the unused image in a Flutter project.
+- **Delete unused Image** This is a [tool](https://pub.dev/packages/delete_unused_image) to delete the unused image in a Flutter project.
 - **Animated Fixed Snack Bar** A [library](https://pub.dev/packages/animated_fixed_snack_bar) to solve the snack bar controler is totally not working in older version of Flutter.
 - **Sponsor Me Extension** A Chrome [extension](https://github.com/SuicaLondon/sponsor-me) to tell the use if the company is eligible to sponsor you the visa.
 - **Fuck off Zenly** I was totally enough to use the Zenly to record my trips trace, and I decided to migrate from Zenly to The Fog of the World. To move the data, I need to convert the HTML data of Zenly to common trace format GPX. You can check the [library](https://github.com/SuicaLondon/FuckoffZenly) to check more.
