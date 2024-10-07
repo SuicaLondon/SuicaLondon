@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 - **Blog** Continually writing new [blog](https://suica.dev/blogs) to share my point of views.
 - **Travel Neko** A cross platform travel planning App.
 
-
 ### 📫 Let's Connect
 
 - 🐦 Twitter: https://twitter.com/SuicaLondon
