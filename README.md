@@ -20,16 +20,29 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 - 🐦 Twitter: https://twitter.com/SuicaLondon
 - 📖 Blog: https://suica.dev
 
-
-[![Suica's GitHub stats](https://github-readme-stats-neon-three-53.vercel.app/api?username=SuicaLondon&show_icons=true&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📖 Worked language for me
+- ### 📖 Worked language for me
 
 - ✅ TypeScript / JavaScript
 - ✅ Dart / Swift / Java
-- ✅ Python / Go 
+- ✅ Python / Go
 
-[![Top Langs](https://github-readme-stats-neon-three-53.vercel.app/api/top-langs/?username=SuicaLondon&layout=compact&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img 
+    src="https://github-readme-stats-neon-three-53.vercel.app/api?username=SuicaLondon&show_icons=true&theme=dark&show_owner=true" 
+    alt="Suica's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats-neon-three-53.vercel.app/api/top-langs/?username=SuicaLondon&layout=compact&theme=dark&show_owner=true" 
+    alt="Suica's Top Languages" 
+  />
+</div>
 
-[![Suica's github activity graph](https://github-readme-activity-graph-ochre-omega.vercel.app/graph?username=SuicaLondon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<div>
+  <img 
+    src="https://github-readme-activity-graph-ochre-omega.vercel.app/graph?username=SuicaLondon&theme=dracula" 
+    alt="Suica's GitHub Activity Graph" 
+  />
+</div>
 
