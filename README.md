@@ -22,12 +22,35 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 - 🐦 Twitter: https://twitter.com/SuicaLondon
 - 📖 Blog: https://suica.dev
 
-- ### 📖 Worked language for me
+### 📖 My Programming Language
 
-- ✅ TypeScript / JavaScript
-- ✅ Dart / Swift / Java
-- ✅ Python / Go
+[![My Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,dart,go,py,nodejs,deno,swift,rust)](https://skillicons.dev)
 
+### ⚙️ Framework
+
+[![My Framework](https://skillicons.dev/icons?i=react,tailwind,flutter,redux,emotion,express,nestjs,fastapi,flask,django,jest,jquery,prisma)](https://skillicons.dev)
+
+### ☁️ Cloud 
+
+[![My Cloud](https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare,heroku)](https://skillicons.dev)
+
+### 💻 Operating System
+
+[![My Operating System](https://skillicons.dev/icons?i=apple,linux)](https://skillicons.dev)
+
+### 📦 Infrastructure
+
+[![My Operating System](https://skillicons.dev/icons?i=git,npm,pnpm,yarn,webpack,babel,docker,jenkins,nginx,wasm)](https://skillicons.dev)
+
+### 🔧 Tools
+
+[![My Operating System](https://skillicons.dev/icons?i=vscode,figma,github,gitlab,postman,sentry)](https://skillicons.dev)
+
+### 📊 Database
+
+[![My Database](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+### ⭕️ My Stats
 <div>
   <img 
     src="https://github-readme-stats-neon-three-53.vercel.app/api?username=SuicaLondon&show_icons=true&theme=dark&show_owner=true" 
@@ -39,6 +62,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
   />
 </div>
 
+### 📉 My activity
 <br/>
 
 <div>
