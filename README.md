@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 
 ### 📖 My Programming Language
 
-[![My Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,dart,go,py,nodejs,deno,swift,rust)](https://skillicons.dev)
+[![My Language](https://skillicons.dev/icons?i=html,css,js,ts,dart,sass,less,go,py,nodejs,deno,swift,rust,java)](https://skillicons.dev)
 
 ### ⚙️ Framework
 
@@ -44,11 +44,11 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 
 ### 🔧 Tools
 
-[![My Operating System](https://skillicons.dev/icons?i=vscode,figma,github,gitlab,postman,sentry,markdown,latex)](https://skillicons.dev)
+[![My Operating System](https://skillicons.dev/icons?i=vscode,figma,github,gitlab,postman,sentry,markdown,latex,androidstudio,idea,webstorm,matlab)](https://skillicons.dev)
 
 ### 📊 Database
 
-[![My Database](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+[![My Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)](https://skillicons.dev)
 
 ### ⭕️ My Stats
 <div>
