@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer to conquer chal
 
 ### 🔧 Tools
 
-[![My Operating System](https://skillicons.dev/icons?i=vscode,figma,github,gitlab,postman,sentry)](https://skillicons.dev)
+[![My Operating System](https://skillicons.dev/icons?i=vscode,figma,github,gitlab,postman,sentry,markdown,latex)](https://skillicons.dev)
 
 ### 📊 Database
 
